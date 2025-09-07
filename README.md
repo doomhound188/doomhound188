@@ -15,7 +15,7 @@ I'm a passionate NOC Administrator and DevOps Engineer who believes in the power
 
 - **Scripting & Automation:** Powershell | APIs
 - **Containerization:** Docker | Podman
-- **Programming:** Go (a little) | C# (a little)
+- **Programming:** Go (a little) | Python (a little)
 - **Interests:** Cloud | AI
 
 ---
