@@ -17,7 +17,7 @@ I specialize in building resilient automation workflows using **Rewst**, streaml
 * **RPA & Workflow:** Rewst.io (Primary) | N8N | Power Automate
 * **Scripting:** Powershell | APIs
 * **Programming:** Python (Mastering: DS&A) | Go (Learning)
-* **Containerization:** Docker | Podman
+* **Containerization:** Docker | Podman | Kubernetes
 * **Interests:** Cloud Infrastructure | Artificial Intelligence
 
 ---
